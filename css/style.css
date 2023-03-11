@@ -1,0 +1,20 @@
+/* card image  */
+.card-img-top {
+    height: 250px;
+    object-fit: cover;
+    border-radius: 5px;
+  }
+  
+/* modal image  */
+.card-img-top-2{
+    height: 300px;
+}
+
+/* modal pricing section  */
+.price{
+  width: 130px;
+  height: 110px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
